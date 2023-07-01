@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>dannyx-hub blog</title>
+    
+    
+    
+    <link>/</link>
+    <description>Recent content on dannyx-hub blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          About me #  My name is Damian, I&amp;rsquo;m 23 years old, and I have been programming in Python for several years. I work as a Python developer in one of the largest banks in Poland. I am interested in cybersecurity, rockets, and automotive industry. I am a co-founder of the Walet-Sec CTF team.
+Projects: #  The projects I am currently working on are:
+ Spartan - a TCP/IP port scanner with script support.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
